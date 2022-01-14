@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Area Formulas",
+        "image":"area.jpg"
+    },
+    {
+        "name":"Complex Numbers",
+        "image":"complex_num.jpg"
+    },
+    {
+        "name":"Derivative Formulas",
+        "image":"derivative.jpg"
+    },
+    {
+        "name":"Function Equations",
+        "image":"functions_equ.jpg"
+    },
+    {
+        "name":"Grometry Formula",
+        "image":"geometry.jpg"
+    },
+    {
+        "name":"Trigonometry Formulas",
+        "image":"trigonometry.jpg"
+    },
+    {
+        "name":"Volume Formulas",
+        "image":"volume.jpg"
+    }
+]

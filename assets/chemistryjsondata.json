@@ -1,0 +1,947 @@
+[
+    {
+        "name":"Hydrogen",
+        "Symbol":"H",
+        "Atomic Number":"1",
+        "Family":"Non Metal",
+        "Atomic Mass":"1.008",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Helium",
+        "Symbol":"He",
+        "Atomic Number":"2",
+        "Family":"Nobel Gas",
+        "Atomic Mass":"4.003",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Lithium",
+        "Symbol":"Li",
+        "Atomic Number":"3",
+        "Family":"Alkali Matel",
+        "Atomic Mass":"6.941",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Beryllium",
+        "Symbol":"Be",
+        "Atomic Number":"4",
+        "Family":"Alkaline Earth",
+        "Atomic Mass":"9.012",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Boron",
+        "Symbol":"B",
+        "Atomic Number":"5",
+        "Family":"Semi Metal",
+        "Atomic Mass":"10.811",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Carbon",
+        "Symbol":"C",
+        "Atomic Number":"6",
+        "Family":"Non Metal",
+        "Atomic Mass":"12.011",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Nitrogen",
+        "Symbol":"N",
+        "Atomic Number":"7",
+        "Family":"Non Metal",
+        "Atomic Mass":"14.007",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Oxygen",
+        "Symbol":"O",
+        "Atomic Number":"8",
+        "Family":"Non Metal",
+        "Atomic Mass":"15.999",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Fluorine",
+        "Symbol":"F",
+        "Atomic Number":"9",
+        "Family":"Halogen",
+        "Atomic Mass":"18.998",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Neon",
+        "Symbol":"N",
+        "Atomic Number":"10",
+        "Family":"Nobel Gas",
+        "Atomic Mass":"20.180",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Sodium",
+        "Symbol":"Na",
+        "Atomic Number":"11",
+        "Family":"Alkali Matel",
+        "Atomic Mass":"22.99",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Magnesium",
+        "Symbol":"Mg",
+        "Atomic Number":"12",
+        "Family":"Alkaline Earth",
+        "Atomic Mass":"24.305",
+        "color":"0xfff7396f"
+        
+    },
+    {
+        "name":"Aluminum",
+        "Symbol":"Al",
+        "Atomic Number":"13",
+        "Family":"Basic Metal",
+        "Atomic Mass":"26.982",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Silicon",
+        "Symbol":"Si",
+        "Atomic Number":"14",
+        "Family":"Semi Metal",
+        "Atomic Mass":"28.086",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Phosphorus",
+        "Symbol":"P",
+        "Atomic Number":"15",
+        "Family":"Non Metal",
+        "Atomic Mass":"30.974",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Sulfur",
+        "Symbol":"S",
+        "Atomic Number":"16",
+        "Family":"Non Metal",
+        "Atomic Mass":"32.066",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Chlorine",
+        "Symbol":"Cl",
+        "Atomic Number":"17",
+        "Family":"Halogen",
+        "Atomic Mass":"34.453",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Argon",
+        "Symbol":"Ar",
+        "Atomic Number":"18",
+        "Family":"Nobel Gas",
+        "Atomic Mass":"39.948",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Potassium",
+        "Symbol":"K",
+        "Atomic Number":"19",
+        "Family":"Alkali Matel",
+        "Atomic Mass":"39.098",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Calcium",
+        "Symbol":"Ca",
+        "Atomic Number":"20",
+        "Family":"Alkaline Earth",
+        "Atomic Mass":"40.078",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Scandium",
+        "Symbol":"Sc",
+        "Atomic Number":"21",
+        "Family":"Transition Metal",
+        "Atomic Mass":"44.956",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Titanium",
+        "Symbol":"Ti",
+        "Atomic Number":"22",
+        "Family":"Transition Metal",
+        "Atomic Mass":"47.867",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Vanadium",
+        "Symbol":"V",
+        "Atomic Number":"23",
+        "Family":"Transition Metal",
+        "Atomic Mass":"50.942",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Chromium",
+        "Symbol":"Cr",
+        "Atomic Number":"24",
+        "Family":"Transition Metal",
+        "Atomic Mass":"51.996",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Manganese",
+        "Symbol":"Mn",
+        "Atomic Number":"25",
+        "Family":"Transition Metal",
+        "Atomic Mass":"54.938",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Iron",
+        "Symbol":"Fe",
+        "Atomic Number":"26",
+        "Family":"Transition Metal",
+        "Atomic Mass":"55.845",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Cobalt",
+        "Symbol":"Co",
+        "Atomic Number":"27",
+        "Family":"Transition Metal",
+        "Atomic Mass":"58.933",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Nickel",
+        "Symbol":"Ni",
+        "Atomic Number":"28",
+        "Family":"Transition Metal",
+        "Atomic Mass":"58.693",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Copper",
+        "Symbol":"Cu",
+        "Atomic Number":"29",
+        "Family":"Transition Metal",
+        "Atomic Mass":"63.546",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Zinc",
+        "Symbol":"Zn",
+        "Atomic Number":"30",
+        "Family":"Transition Metal",
+        "Atomic Mass":"65.38",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Gallium",
+        "Symbol":"Ga",
+        "Atomic Number":"31",
+        "Family":"Basic Metal",
+        "Atomic Mass":"69.723",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Germanium",
+        "Symbol":"Ge",
+        "Atomic Number":"32",
+        "Family":"Semi Metal",
+        "Atomic Mass":"72.631",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Arsenic",
+        "Symbol":"As",
+        "Atomic Number":"33",
+        "Family":"Semi Metal",
+        "Atomic Mass":"74.922",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Selenium",
+        "Symbol":"Se",
+        "Atomic Number":"34",
+        "Family":"Non Metal",
+        "Atomic Mass":"78.971",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Bromine",
+        "Symbol":"Br",
+        "Atomic Number":"35",
+        "Family":"Halogen",
+        "Atomic Mass":"79.904",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Krypton",
+        "Symbol":"Kr",
+        "Atomic Number":"36",
+        "Family":"Nobel Gas",
+        "Atomic Mass":"83.789",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Rubidium",
+        "Symbol":"Rb",
+        "Atomic Number":"37",
+        "Family":"Alkali Matel",
+        "Atomic Mass":"85.468",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Strontium",
+        "Symbol":"Sr",
+        "Atomic Number":"38",
+        "Family":"Alkaline Earth",
+        "Atomic Mass":"87.62",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Yttrium",
+        "Symbol":"Y",
+        "Atomic Number":"39",
+        "Family":"Transition Metal",
+        "Atomic Mass":"88.906",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Zirconium",
+        "Symbol":"Zr",
+        "Atomic Number":"40",
+        "Family":"Transition Metal",
+        "Atomic Mass":"91.224",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Niobium",
+        "Symbol":"Nb",
+        "Atomic Number":"41",
+        "Family":"Transition Metal",
+        "Atomic Mass":"92.906",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Molybdenum",
+        "Symbol":"Mo",
+        "Atomic Number":"42",
+        "Family":"Transition Metal",
+        "Atomic Mass":"95.95",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Technetium",
+        "Symbol":"Tc",
+        "Atomic Number":"43",
+        "Family":"Transition Metal",
+        "Atomic Mass":"98.907",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Ruthenium",
+        "Symbol":"Ru",
+        "Atomic Number":"44",
+        "Family":"Transition Metal",
+        "Atomic Mass":"101.07",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Rhodium",
+        "Symbol":"Rh",
+        "Atomic Number":"45",
+        "Family":"Transition Metal",
+        "Atomic Mass":"102.906",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Palladium",
+        "Symbol":"Pd",
+        "Atomic Number":"46",
+        "Family":"Transition Metal",
+        "Atomic Mass":"106.42",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Silver",
+        "Symbol":"Ag",
+        "Atomic Number":"47",
+        "Family":"Transition Metal",
+        "Atomic Mass":"107.868",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Cadmium",
+        "Symbol":"Cd",
+        "Atomic Number":"48",
+        "Family":"Transition Metal",
+        "Atomic Mass":"112.414",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Indium",
+        "Symbol":"In",
+        "Atomic Number":"49",
+        "Family":"Basic Metal",
+        "Atomic Mass":"114.818",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Tin",
+        "Symbol":"Sn",
+        "Atomic Number":"50",
+        "Family":"Basic Metal",
+        "Atomic Mass":"118.711",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Antimony",
+        "Symbol":"Sb",
+        "Atomic Number":"51",
+        "Family":"Semi Metal",
+        "Atomic Mass":"121.760",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Tellurium",
+        "Symbol":"Te",
+        "Atomic Number":"52",
+        "Family":"Semi Metal",
+        "Atomic Mass":"127.6",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Iodine",
+        "Symbol":"I",
+        "Atomic Number":"53",
+        "Family":"Halogen",
+        "Atomic Mass":"126.904",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Xenon",
+        "Symbol":"Xe",
+        "Atomic Number":"54",
+        "Family":"Nobel Gas",
+        "Atomic Mass":"131.294",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Cesium",
+        "Symbol":"Cs",
+        "Atomic Number":"55",
+        "Family":"Alkali Matel",
+        "Atomic Mass":"132.905",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Barium",
+        "Symbol":"Ba",
+        "Atomic Number":"56",
+        "Family":"Alkaline Earth",
+        "Atomic Mass":"137.328",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Lathanum",
+        "Symbol":"La",
+        "Atomic Number":"57",
+        "Family":"Lanthanide",
+        "Atomic Mass":"138.905",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Cerium",
+        "Symbol":"Ce",
+        "Atomic Number":"58",
+        "Family":"Lanthanide",
+        "Atomic Mass":"140.116",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Praseodymium",
+        "Symbol":"Pr",
+        "Atomic Number":"59",
+        "Family":"Lanthanide",
+        "Atomic Mass":"140.908",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Neodymium",
+        "Symbol":"Nd",
+        "Atomic Number":"60",
+        "Family":"Lanthanide",
+        "Atomic Mass":"144.243",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Promethium",
+        "Symbol":"Pm",
+        "Atomic Number":"61",
+        "Family":"Lanthanide",
+        "Atomic Mass":"144.913",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Samarium",
+        "Symbol":"Sm",
+        "Atomic Number":"62",
+        "Family":"Lanthanide",
+        "Atomic Mass":"150.36",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Europium",
+        "Symbol":"Eu",
+        "Atomic Number":"63",
+        "Family":"Lanthanide",
+        "Atomic Mass":"151.964",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Gadolinium",
+        "Symbol":"Gd",
+        "Atomic Number":"64",
+        "Family":"Lanthanide",
+        "Atomic Mass":"157.25",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Terbium",
+        "Symbol":"Tb",
+        "Atomic Number":"65",
+        "Family":"Lanthanide",
+        "Atomic Mass":"158.925",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Dysprosium",
+        "Symbol":"Dy",
+        "Atomic Number":"66",
+        "Family":"Lanthanide",
+        "Atomic Mass":"162.500",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Holmium",
+        "Symbol":"Ho",
+        "Atomic Number":"67",
+        "Family":"Lanthanide",
+        "Atomic Mass":"164.930",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Erbium",
+        "Symbol":"Er",
+        "Atomic Number":"68",
+        "Family":"Lanthanide",
+        "Atomic Mass":"167.257",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Thulium",
+        "Symbol":"Tm",
+        "Atomic Number":"69",
+        "Family":"Lanthanide",
+        "Atomic Mass":"168.934",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Ytterbium",
+        "Symbol":"Yb",
+        "Atomic Number":"70",
+        "Family":"Lanthanide",
+        "Atomic Mass":"173.055",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Lutetium",
+        "Symbol":"Lu",
+        "Atomic Number":"71",
+        "Family":"Lanthanide",
+        "Atomic Mass":"174.967",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Hafnium",
+        "Symbol":"Hf",
+        "Atomic Number":"72",
+        "Family":"Transition Metal",
+        "Atomic Mass":"178.49",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Tantalum",
+        "Symbol":"Ta",
+        "Atomic Number":"73",
+        "Family":"Transition Metal",
+        "Atomic Mass":"180.948",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Tungsten",
+        "Symbol":"W",
+        "Atomic Number":"74",
+        "Family":"Transition Metal",
+        "Atomic Mass":"183.84",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Rhenium",
+        "Symbol":"Re",
+        "Atomic Number":"75",
+        "Family":"Transition Metal",
+        "Atomic Mass":"186.207",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Osmium",
+        "Symbol":"Os",
+        "Atomic Number":"76",
+        "Family":"Transition Metal",
+        "Atomic Mass":"190.23",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Iridium",
+        "Symbol":"Ir",
+        "Atomic Number":"77",
+        "Family":"Transition Metal",
+        "Atomic Mass":"192.217",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Platium",
+        "Symbol":"Pt",
+        "Atomic Number":"78",
+        "Family":"Transition Metal",
+        "Atomic Mass":"195.085",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Gold",
+        "Symbol":"Au",
+        "Atomic Number":"79",
+        "Family":"Transition Metal",
+        "Atomic Mass":"196.967",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Mercury",
+        "Symbol":"Hg",
+        "Atomic Number":"80",
+        "Family":"Transition Metal",
+        "Atomic Mass":"200.592",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Thallium",
+        "Symbol":"Tl",
+        "Atomic Number":"81",
+        "Family":"Basic Metal",
+        "Atomic Mass":"204.383",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Lead",
+        "Symbol":"Pd",
+        "Atomic Number":"82",
+        "Family":"Basic Metal",
+        "Atomic Mass":"207.2",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Bismuth",
+        "Symbol":"Bi",
+        "Atomic Number":"83",
+        "Family":"Basic Metal",
+        "Atomic Mass":"208.908",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Polonium",
+        "Symbol":"Po",
+        "Atomic Number":"84",
+        "Family":"Semi Metal",
+        "Atomic Mass":"208.982",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Astatine",
+        "Symbol":"At",
+        "Atomic Number":"85",
+        "Family":"Halogen",
+        "Atomic Mass":"209.987",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Radon",
+        "Symbol":"Rn",
+        "Atomic Number":"86",
+        "Family":"Nobel Gas",
+        "Atomic Mass":"222.018",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Francium",
+        "Symbol":"Fr",
+        "Atomic Number":"87",
+        "Family":"Alkali Matel",
+        "Atomic Mass":"223.020",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Radium",
+        "Symbol":"Ra",
+        "Atomic Number":"88",
+        "Family":"Alkaline Earth",
+        "Atomic Mass":"226.025",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Actinium",
+        "Symbol":"Ac",
+        "Atomic Number":"89",
+        "Family":"Actinide",
+        "Atomic Mass":"227.028",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Thorium",
+        "Symbol":"Th",
+        "Atomic Number":"90",
+        "Family":"Actinide",
+        "Atomic Mass":"232..038",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Protactinium",
+        "Symbol":"Pa",
+        "Atomic Number":"91",
+        "Family":"Actinide",
+        "Atomic Mass":"231.036",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Uranium",
+        "Symbol":"U",
+        "Atomic Number":"92",
+        "Family":"Actinide",
+        "Atomic Mass":"231.036",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Neptunium",
+        "Symbol":"Np",
+        "Atomic Number":"93",
+        "Family":"Actinide",
+        "Atomic Mass":"237.048",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Plutonium",
+        "Symbol":"Pu",
+        "Atomic Number":"94",
+        "Family":"Actinide",
+        "Atomic Mass":"244.064",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Americium",
+        "Symbol":"Am",
+        "Atomic Number":"95",
+        "Family":"Actinide",
+        "Atomic Mass":"243.061",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Curium",
+        "Symbol":"Cm",
+        "Atomic Number":"96",
+        "Family":"Actinide",
+        "Atomic Mass":"247.070",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Berkelium",
+        "Symbol":"Bk",
+        "Atomic Number":"97",
+        "Family":"Actinide",
+        "Atomic Mass":"247.070",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Californium",
+        "Symbol":"Cf",
+        "Atomic Number":"98",
+        "Family":"Actinide",
+        "Atomic Mass":"251.080",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Einsteinium",
+        "Symbol":"Es",
+        "Atomic Number":"99",
+        "Family":"Actinide",
+        "Atomic Mass":"254",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Fermium",
+        "Symbol":"Fm",
+        "Atomic Number":"100",
+        "Family":"Actinide",
+        "Atomic Mass":"257.095",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Mendelevium",
+        "Symbol":"Md",
+        "Atomic Number":"101",
+        "Family":"Actinide",
+        "Atomic Mass":"258.1",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Nobelium",
+        "Symbol":"No",
+        "Atomic Number":"102",
+        "Family":"Actinide",
+        "Atomic Mass":"259,101",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Lawrrencium",
+        "Symbol":"Lr",
+        "Atomic Number":"103",
+        "Family":"Actinide",
+        "Atomic Mass":"262",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Rutherfordium",
+        "Symbol":"Rf",
+        "Atomic Number":"104",
+        "Family":"Transition Metal",
+        "Atomic Mass":"261",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Dabnium",
+        "Symbol":"Db",
+        "Atomic Number":"105",
+        "Family":"Transition Metal",
+        "Atomic Mass":"262",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Seaborgium",
+        "Symbol":"Sg",
+        "Atomic Number":"106",
+        "Family":"Transition Metal",
+        "Atomic Mass":"266",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Bohrium",
+        "Symbol":"Bh",
+        "Atomic Number":"107",
+        "Family":"Transition Metal",
+        "Atomic Mass":"264",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Hassium",
+        "Symbol":"Hs",
+        "Atomic Number":"108",
+        "Family":"Transition Metal",
+        "Atomic Mass":"269",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Meitnerium",
+        "Symbol":"Mt",
+        "Atomic Number":"109",
+        "Family":"Transition Metal",
+        "Atomic Mass":"278",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Darmstadtium",
+        "Symbol":"Ds",
+        "Atomic Number":"110",
+        "Family":"Transition Metal",
+        "Atomic Mass":"281",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Roentgenium",
+        "Symbol":"Rg",
+        "Atomic Number":"111",
+        "Family":"Transition Metal",
+        "Atomic Mass":"280",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Copernicium",
+        "Symbol":"Cn",
+        "Atomic Number":"112",
+        "Family":"Transition Metal",
+        "Atomic Mass":"285",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Nihonium",
+        "Symbol":"Nh",
+        "Atomic Number":"113",
+        "Family":"Basic Metal",
+        "Atomic Mass":"286",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Flerovium",
+        "Symbol":"Fl",
+        "Atomic Number":"114",
+        "Family":"Basic Metal",
+        "Atomic Mass":"289",
+        "color":"0xffdf74fc"
+    },
+    {
+        "name":"Moscovium",
+        "Symbol":"Mc",
+        "Atomic Number":"115",
+        "Family":"Basic Metal",
+        "Atomic Mass":"286",
+        "color":"0xff6bfab0"
+    },
+    {
+        "name":"Livermorium",
+        "Symbol":"Lv",
+        "Atomic Number":"116",
+        "Family":"Basic Metal",
+        "Atomic Mass":"293",
+        "color":"0xfff7396f"
+    },
+    {
+        "name":"Tennessine",
+        "Symbol":"Ts",
+        "Atomic Number":"117",
+        "Family":"Halogen",
+        "Atomic Mass":"294",
+        "color":"0xfffcd977"
+    },
+    {
+        "name":"Oganesson",
+        "Symbol":"Og",
+        "Atomic Number":"118",
+        "Family":"Nobel Gas",
+        "Atomic Mass":"294",
+        "color":"0xffdf74fc"
+    }
+]
