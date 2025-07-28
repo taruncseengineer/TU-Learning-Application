@@ -21,14 +21,14 @@ class _DictionaryPageState extends State<DictionaryPage> {
   bool selected = false;
   String translateOutPut;
   List result;
-  String url = 'https://owlbot.info/api/v4/dictionary/owl -s | json_pp';
+  String url = '';
   final _formKey = GlobalKey<FormState>();
   TextEditingController textEditingController;
   String imageurl;
   Future<String> getDatafromApi(String input) async {
     try {
-      String urlname = 'https://owlbot.info/api/v4/dictionary/';
-      String token = '2786a4bab21d208fdb44a1d96825ba3ed387de6f';
+      String urlname = '';
+      String token = '';
 
       var response = await http
           .get(urlname + input, headers: {"Authorization": "Token " + token});
@@ -242,7 +242,7 @@ class _DictionaryPageState extends State<DictionaryPage> {
                       backgroundColor: Colors.white,
                       backgroundImage: CachedNetworkImageProvider(
                         imageurl == null
-                            ? "https://image.shutterstock.com/z/stock-photo-error-wooden-letters-on-the-office-desk-informative-and-communication-background-1023011758.jpg"
+                            ? ""
                             : imageurl,
                       ),
                     ),
@@ -282,7 +282,7 @@ class _DictionaryPageState extends State<DictionaryPage> {
                                   //       CircularProgressIndicator(),
                                   //   errorWidget: (context, url, error) =>
                                   //       Image.asset(
-                                  //           "https://image.shutterstock.com/z/stock-photo-error-wooden-letters-on-the-office-desk-informative-and-communication-background-1023011758.jpg"),
+                                  //           "https://image.shutters.jpg"),
                                   // ),
                                   subtitle: Text(
                                     "example :- " + result[index]['definition'],
