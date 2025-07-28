@@ -28,7 +28,7 @@ class FrontPage extends StatefulWidget {
 class _FrontPageState extends State<FrontPage> {
   List result;
   Future fetchData() async {
-    String url = "https://zenquotes.io/api/random";
+    String url = "";
     try {
       var response = await http.get(url);
       if (response.statusCode == 200) {
@@ -132,7 +132,7 @@ class _FrontPageState extends State<FrontPage> {
   //   final checkVersion = CheckVersion(context: context);
   //   final appStatus = await checkVersion.getVersionStatus();
   //   if (appStatus.canUpdate) {
-  //     checkVersion.showUpdateDialog("com.tarun.tulearner", "id0123456789");
+  //     checkVersion.showUpdateDialog("", "");
   //   }
   // }
 
