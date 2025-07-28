@@ -46,6 +46,6 @@
 	<key>NSCameraUsageDescription</key>
 	<string>give the permission to access your camera to click the picture.</string>
 	<key>GADApplicationIdentifier</key>
-    <string>ca-app-pub-3940256099942544~3347511713</string>
+    <string></string>
 </dict>
 </plist>
