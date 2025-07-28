@@ -44,7 +44,4 @@ class TuLearner extends StatelessWidget {
   }
 }
 
-// Banner{
-//   appId:ca-app-pub-4838731984025359~9576337387
-//   unitId:ca-app-pub-4838731984025359/8538587886
-// }
+
